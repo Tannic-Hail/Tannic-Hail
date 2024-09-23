@@ -13,9 +13,9 @@ IT Help Desk Specialist | Customer Service Manager | Tech Support Analyst | Brid
 - [Qualys Vulnerability Management](https://www.linkedin.com/in/michael-valdez-047639161/details/certifications/)
 <h2>🌱 I’m currently learning:</h2>
 
-- [CompTIA Network+](https://github.com/Tannic-hail/--------------)
+- [CompTIA Network+](https://www.comptia.org/certifications/network)
 
-- [Introduction to Computer Science and Programming Using Python](https://github.com/Tannic-hail/--------------)
+- [Introduction to Computer Science and Programming Using Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
