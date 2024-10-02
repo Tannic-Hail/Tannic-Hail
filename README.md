@@ -5,6 +5,8 @@ IT Help Desk Specialist | Customer Service Manager | Tech Support Analyst | Brid
 <h2>👨‍💻 IT Home lab Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/Tannic-hail/--------------)
+  - [Spiceworks: Knowledge Base for IT](https://github.com/Tannic-hail/Spiceworks-Homelab)
+  - [Jira: Ticekting and Resolution Software](https://github.com/Tannic-hail/--------------)
 
 <h2>📜 Certifications:</h2>
 
